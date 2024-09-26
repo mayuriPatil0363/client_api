@@ -8,7 +8,9 @@ public class Sum {
 		int i =sm.sum(12, 10);
 		System.out.println(i);
 		
-
+		SumAndSub sm3 = new SumAndSub();
+		int i3 =sm.sum(12, 10);
+		System.out.println(i3);
 		
 	}
 	
