@@ -11,6 +11,10 @@ public class Sum {
 		SumAndSub sm3 = new SumAndSub();
 		int i3 =sm.sum(12, 10);
 		System.out.println(i3);
+
+		SumAndSub sm2 = new SumAndSub();
+		int i1 =sm.sum(12, 10);
+		System.out.println(i1);
 		
 	}
 	
